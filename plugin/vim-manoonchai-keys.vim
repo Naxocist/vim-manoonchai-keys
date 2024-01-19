@@ -11,7 +11,7 @@
 :map บ p
 :map ็ [
 :map ฬ ]
-:map ฯ \
+":map ฯ \
 :map ง a
 :map เ s
 :map ร d
@@ -23,7 +23,7 @@
 :map ้  l
 :map ว ;
 :map ื '
-:map ุ  z
+:map  ุ z
 :map ไ x
 :map ท c
 :map ย v
@@ -45,8 +45,8 @@
 :map ธ I
 :map ฐ O
 :map ฎ P
-:map ฆ {
-:map ฑ }
+:map ฆ \{
+:map ฑ \}
 ":map ฌ |
 :map ษ A
 :map ถ S
@@ -68,3 +68,5 @@
 :map ศ <
 :map ฮ >
 
+:map  ุ ุ z
+:map มม gg
