@@ -9,9 +9,11 @@ Causing me, who is using "manoochai" keyboard layout, a problem. There you go, a
 
 ### UNDER DEVELOPMENT : 20-1-2024<br>
 
-To use, just copy and paste this in to your favorite vim plugin manager's plugin list. <br>
+ถ้าใช้ [vundle](https://github.com/VundleVim/Vundle.vim) เป็นตัวจัดการปลั๊กอิน ก็ก๊อปโค้ดข้างล่างไปไว้ใน `.vimrc` ได้เลย <br>
+If you are using [vundle](https://github.com/VundleVim/Vundle.vim) for package management, just copy and paste code below into your `.vimrc`. <br>
 ```vim
 Plugin 'Naxocist/vim-manoonchai-keys'
 ```
-And then type `:PluginInstall` or any command that is require to get new plugin working. <br>
+แล้วก็พิมพ์ `:PluginInstall` ใน vim ได้เลยครับ ก็เป็นอันเสร็จ <br>
+And then type `:PluginInstall` in vim and you're all set. <br>
 Enjoy typing!
