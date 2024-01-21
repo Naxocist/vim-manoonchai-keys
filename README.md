@@ -5,7 +5,7 @@
 ผมที่ใช้แป้นพิมพ์มนูญชัยอยู่ก่อนแล้วจึงไม่สามารถใช้ปลั๊กอินนี้ได้ จึงกำเนิดปลั๊กอินนี้ออกมาครับ
 
 This project is inspired by this amazing plugin [vim-thai-keys](https://github.com/chakrit/vim-thai-keys) that solely supports "kedmanee" keyboard layout. <br>
-Causing me, who is using "manoochai" keyboard layout, a problem. There you go, a new plugin is developed right away. (to fulfill my need of course)
+Causing me, who is using "manoonchai" keyboard layout, a problem. There you go, a new plugin is developed right away. (to fulfill my need of course)
 
 ### UNDER DEVELOPMENT : 20-1-2024<br>
 
