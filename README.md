@@ -7,7 +7,8 @@
 This project is inspired by this amazing plugin [vim-thai-keys](https://github.com/chakrit/vim-thai-keys) that solely supports "kedmanee" keyboard layout. <br>
 Causing me, who is using "manoonchai" keyboard layout, a problem. There you go, a new plugin is developed right away. (to fulfill my need of course)
 
-### UNDER DEVELOPMENT : 20-1-2024<br>
+### ใช้กับตัวอักษรตัวยกไม่ได้นะครับ
+### Not working with uppercase letter.<br>
 
 ถ้าใช้ [vundle](https://github.com/VundleVim/Vundle.vim) เป็นตัวจัดการปลั๊กอิน ก็ก๊อปโค้ดข้างล่างไปไว้ใน `.vimrc` ได้เลย <br>
 If you are using [vundle](https://github.com/VundleVim/Vundle.vim) for package management, just copy and paste code below into your `.vimrc`. <br>
